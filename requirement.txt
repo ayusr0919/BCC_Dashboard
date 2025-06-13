@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+ta
+scikit-learn
+tensorflow
+streamlit
+matplotlib
+
+#venv\Scripts\activate
+#streamlit run app.py
